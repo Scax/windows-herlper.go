@@ -6,7 +6,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/scax/windows-helper/win"
+	"github.com/scax/windows-helper.go/win"
 )
 
 func TestGetWindowHandleFromPID(t *testing.T) {

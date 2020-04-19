@@ -1,6 +1,6 @@
 package window
 
-import "github.com/scax/windows-helper/win"
+import "github.com/scax/windows-helper.go/win"
 
 // GetWindowHandleFromPID return the first window for the pid
 func GetWindowHandleFromPID(pid uint32) (uintptr, error) {

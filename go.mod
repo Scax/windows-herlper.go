@@ -1,4 +1,4 @@
-module github.com/scax/windows-helper
+module github.com/scax/windows-helper.go
 
 
 
